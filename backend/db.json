@@ -1,14 +1,19 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "João Henrique",
-            "email": "joao_camargo10@hotmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Manoel Figueroa",
-            "email": "manu@hotmail.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "João Henrique",
+      "email": "joao_camargo10@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Manoel Figueroa",
+      "email": "manu@hotmail.com"
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "id": 3
+    }
+  ]
 }
